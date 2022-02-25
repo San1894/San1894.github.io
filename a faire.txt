@@ -1,0 +1,4 @@
+1) delete confirm //
+2) les sessions//
+3) modifier le form connexion//
+4) afficher le pseudo au login//

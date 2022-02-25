@@ -1,0 +1,21 @@
+/* @media (min-width: 200px) {
+  /* .container,
+  .container-sm {
+    min-width: 300px;
+  } */
+/* .container,
+  .container-sm {
+    max-width: 10%;
+  } */
+
+/* [class*="col-"] {
+  width: 100%;
+} */
+/*  */
+body {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: rgb(235, 244, 242);
+}
